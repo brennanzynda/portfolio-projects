@@ -3,8 +3,10 @@
 *.db*
 
 # Visual Studio Excludes
-*.vcxproj*
+*.vcxproj.user
+*.vcxproj.filters
 *.suo
+*.opendb
 
 # Object files
 *.o
@@ -23,7 +25,6 @@
 *.pch
 
 # Libraries
-*.lib
 *.a
 *.la
 *.lo
